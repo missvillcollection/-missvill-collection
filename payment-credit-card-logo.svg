@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 96" role="img" aria-labelledby="title">
+  <title id="title">Credit card icon with Visa and Mastercard style marks</title>
+  <rect x="1" y="1" width="238" height="94" rx="22" fill="#FFF9EF" stroke="#F1DDBB" stroke-width="2"/>
+  <rect x="35" y="25" width="170" height="48" rx="10" fill="#FFFFFF" stroke="#7C5528" stroke-width="3"/>
+  <rect x="35" y="37" width="170" height="8" fill="#EFD1AC"/>
+  <text x="55" y="63" fill="#1A4B9B" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">VISA</text>
+  <circle cx="157" cy="57" r="14" fill="#EB001B" opacity="0.9"/>
+  <circle cx="174" cy="57" r="14" fill="#F79E1B" opacity="0.9"/>
+</svg>

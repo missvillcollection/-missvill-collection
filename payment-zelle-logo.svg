@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 96" role="img" aria-labelledby="title">
+  <title id="title">Zelle logo</title>
+  <rect x="1" y="1" width="238" height="94" rx="22" fill="#F7F0FF" stroke="#E3D5FA" stroke-width="2"/>
+  <text x="120" y="61" text-anchor="middle" fill="#6D1ED4" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="800">Zelle</text>
+  <text x="178" y="42" fill="#6D1ED4" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">®</text>
+</svg>
